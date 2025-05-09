@@ -47,10 +47,10 @@ hostname wordpress
 ## then, follow the steps mentioned in https://ubuntu.com/tutorials/install-and-configure-wordpress#1-overview
 ```
 
-### 5. websiteIAC
+### 5. website_IaC
 An Infrastructure as Code (IaC) version of the `website` project. All setup steps, including package installation and server configuration, are automated using Vagrant provisioning script.
 
-### 6. wordpressIAC
+### 6. wordpress_IaC
 Transforms the manual `wordpress` project into a fully automated IaC setup. The provisioning script installs Apache, MySQL, PHP, and configures WordPress automatically using Vagrant provisioning script.
 
 ### 7. multivm
