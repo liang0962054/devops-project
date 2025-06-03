@@ -1,0 +1,1 @@
+{"dependencies":[["vagrant-hostmanager",["= 1.8.10"]],["vagrant-vmware-desktop",["= 3.0.5"]]],"checksum":"982fcd886c998c9c0fec437c7fb0820d72fee98812978a3baf45192ee3704394","vagrant_version":"2.4.5"}
